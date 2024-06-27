@@ -1,5 +1,4 @@
-SELECT	* FROM responses
-
+---create working table---
 SELECT *  INTO test_compen
 	FROM responses
  
